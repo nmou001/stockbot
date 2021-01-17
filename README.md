@@ -11,10 +11,12 @@ StockBot is a Python application that takes in a list of stocks and produces a c
 
 ## Libraries
 Make sure the following libraries are installed:
-pandas -> standard data manipulation library
-pandas_datareader -> stock information, pulled from Yahoo Finance
-Datetime -> date and time
-Os -> modify files (removing them in this case)
-Csv -> creates csv file
-Sys -> enables command line arguments
+- pandas -> standard data manipulation library
+- pandas_datareader -> stock information, pulled from Yahoo Finance
+- Datetime -> date and time
+- Os -> modify files (removing them in this case)
+- Csv -> creates csv file
+- Sys -> enables command line arguments
 
+## A bangin' presentation
+https://docs.google.com/presentation/d/1NwA_tamA2cE_hol5gxJFU1VeB4zjZcKt6j8WeOwEN7s/edit?usp=sharing

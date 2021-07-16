@@ -1,4 +1,4 @@
-# StockBot
+# StockBot, a simple weekend project to stave off boredom!
 
 ## Description
 StockBot is a Python application that takes in a list of stocks and produces a csv file that contains all relevant stock information (Name, High, Low, Opening Price, Closing Price, Volume, Adj Close)
